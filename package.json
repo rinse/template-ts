@@ -5,6 +5,8 @@
   "main": "out/index.js",
   "scripts": {
     "build": "tsc",
+    "prepare": "npm run build",
+    "lint": "npx eslint src",
     "start": "npm run build && node out/index.js",
     "test": "jest"
   },
