@@ -1,5 +1,5 @@
 {
-  "name": "ts-template",
+  "name": "template-ts",
   "version": "0.1.0",
   "description": "A template for a TS project",
   "main": "out/index.js",
